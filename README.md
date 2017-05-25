@@ -11,6 +11,7 @@
  * [两种高效的服务器设计模型：Reactor和Proactor模型](http://blog.csdn.net/u013074465/article/details/46276967)
 
 #### 2017-05-24 无锁队列
+ * [Writing a Generalized Concurrent Queue](http://www.drdobbs.com/parallel/writing-a-generalized-concurrent-queue/211601363?pgno=1)
  * [Writing Lock-Free Code: A Corrected Queue](http://www.drdobbs.com/parallel/writing-lock-free-code-a-corrected-queue/210604448?pgno=1)
  
 [2017-03-23 缓存更新策略](http://coolshell.cn/articles/17416.html)
