@@ -1,6 +1,9 @@
 # 游戏服务器开发每日分享
 # 所有分享链接版权规原作者所有,转载请注明出处.
 
+#### 2017-05-26 编译原理
+ * [cc/g++等编译器 编译原理： 预处理，编译，汇编，链接各步骤详解](http://blog.csdn.net/elfprincexu/article/details/45043971)
+ 
 #### 2017-05-25 同步异步、阻塞非阻塞
  * [关于Blocking IO, Non-Blocking IO 和 Asynchronous I/O的理解](http://www.cnblogs.com/whyandinside/archive/2012/03/04/2379234.html)
  * [也谈同步异步I/O](http://www.smithfox.com/?e=191)
