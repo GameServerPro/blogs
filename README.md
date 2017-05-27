@@ -1,7 +1,7 @@
 # 游戏服务器开发每日分享
 # 所有分享链接版权规原作者所有,转载请注明出处.
 
-[2017-05-27 Redis info详解](http://blog.csdn.net/elfprincexu/article/details/45043971)
+[2017-05-27 Redis info详解](http://redisdoc.com/server/info.html)
  
 [2017-05-26 cc/g++等编译器 编译原理： 预处理，编译，汇编，链接各步骤详解](http://blog.csdn.net/elfprincexu/article/details/45043971)
  
